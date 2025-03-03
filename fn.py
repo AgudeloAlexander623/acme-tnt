@@ -1,3 +1,3 @@
 def saludar(name : str):
-    print(f'hello {name} welcome to git')
+    print(f'hola {name} bienvenido a git')
 saludar('alexander')
